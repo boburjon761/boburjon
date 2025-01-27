@@ -1,12 +1,10 @@
 * {
-<<<<<<< HEAD
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
-<<<<<<< HEAD
-.vraps {
+.vraps{
     background-color: #0B1126;
     color: #fff;
 }
@@ -56,8 +54,7 @@ h2 span {
 
 
 .chap img {
-    width: 70%;
-=======
+   width: 70%;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -237,13 +234,11 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
->>>>>>> 7325921 (boburjonn)
-
-}
+ }
 
 
-<<<<<<< HEAD
-.my {
+
+.my{
     background-color: #5b78e0;
     color: #fff;
 }
@@ -398,7 +393,7 @@ width: 100%;
     align-items: center;
     justify-content: end;
     margin: 6% 0;
-=======
+}
 #bedroom {
   box-shadow: 8px 8px 0px 0px #E7CB43;
 
@@ -434,12 +429,11 @@ width: 100%;
   align-items: center;
   justify-content: center;
   margin-top: 3%;
->>>>>>> 7325921 (boburjonn)
 }
 
 
 
-<<<<<<< HEAD
+
 .baner_main {
     width: 95%;
     display: flex;
@@ -524,7 +518,7 @@ width: 100%;
 .box_title a {
     text-decoration: none;
     color: rgba(84, 84, 212, 1);
-=======
+}
 
 
 .baner_main {
@@ -630,7 +624,6 @@ width: 100%;
 }
 .box{
   margin: 9% 0;
->>>>>>> 7325921 (boburjonn)
 }
 
 
@@ -639,7 +632,6 @@ width: 100%;
 
 
 
-<<<<<<< HEAD
 .depth {
     width: 100%;
     height: auto;
@@ -826,7 +818,7 @@ width: 100%;
 
 .bars {
     display: none;
-=======
+}
 
 
 
@@ -2757,7 +2749,6 @@ font-size: 40px;
     width: 190px;
     font-size: 8px;
   }
->>>>>>> 7325921 (boburjonn)
 }
 
 
@@ -2772,7 +2763,6 @@ font-size: 40px;
 
 
 
-<<<<<<< HEAD
 @media(max-width:1369px) {
     .baner_title h1 {
         width: 100%;
@@ -2946,8 +2936,7 @@ font-size: 40px;
     .baner_title p{
         width: 90%;
     }
-=======
-
+  }
 
 
 
@@ -3209,12 +3198,9 @@ font-size: 40px;
   .flayd_text h1{
     font-size: 50px;
   }
->>>>>>> 7325921 (boburjonn)
 }
 
 
-
-<<<<<<< HEAD
 
 
 @media(max-width:988px){
@@ -3323,6 +3309,3 @@ font-size: 20px;
 }
 
 
->>>>>>> 0fc59cd (first commit)
-=======
->>>>>>> 7325921 (boburjonn)
