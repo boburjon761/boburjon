@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.vraps {
+    background-color: #0B1126;
+    color: #fff;
+}
+
+.vraps h2 {
+    text-align: left;
+}
+
+h2 span {
+    color: #FFC107;
+}
+
+
+.service-card {
+    background-color: #020617;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.service-card i {
+    font-size: 2rem;
+    color: #FFC107;
+}
+
+.main {
+    background-color: #1741ff;
+
+}
+
+.ong img {
+    width: 70%;
+}
+
+.chap {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.icon i{
+    font-size: 23px;
+    margin-bottom: 3% ;
+}
+
+
+
+.chap img {
+    width: 70%;
+
+}
+
+
+.my {
+    background-color: #5b78e0;
+    color: #fff;
+}
+
+h2 span {
+    color: #FFC107;
+}
+
+
+.ongg a{
+    text-decoration: none;
+}
+.icon svg {
+
+margin-bottom: 3% ;
+
+}
+
+.chapp{
+    width: 90%; 
+    display: flex;
+     align-items: end;
+     justify-content: end;
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:991px) {
+    .box_main {
+        flex-direction: column-reverse;
+    }
+
+    .box_img img {
+        width: 100%;
+    }
+
+    .box_title_button {
+        margin-bottom: 5%;
+    }
+
+    .aboutme_main {
+        flex-direction: column;
+    }
+
+    .aboutme_img {
+        margin-top: 5%;
+    }
+
+    .about_button {
+        margin-bottom: 5%;
+    }
+
+    .about_title h1 {
+        text-align: center;
+    }
+    .kichik{
+        flex-direction: column  ;
+    }
+    .ong img{
+width: 100%;
+    }
+    .chap img{
+        width: 100%;
+    }
+    .chap{
+        width: 100%;
+    }
+    .tagg{
+        flex-direction: column-reverse;
+       
+    }
+.chapp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+}
+@media(max-width:927px){
+ .row{
+ flex-direction: column;
+ gap: 20px;
+ display: flex;
+ }
+}
+
+@media(max-width:1138px) {
+    .aboutme_img img {
+        width: 100%;
+    }
+}
+
+
+@media(max-width:795px){
+    .hu_title p{
+        font-size: 10px;
+    }
+}
